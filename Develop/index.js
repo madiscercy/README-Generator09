@@ -112,7 +112,6 @@ function getLicenseBadgeUrl(license) {
     fileData += 'If you have any further questions, feel free to reach out to my email: \n'
     fileData += answers.email + '\n';
     writeToFile(fileData);
-    console.log(answers);
  }
 
 // TODO: Create a function to initialize app
