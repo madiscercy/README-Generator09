@@ -31,3 +31,6 @@ MIT License (MIT)
 [GitHub Profile](https://github.com/madiscercy) 
 If you have any further questions, feel free to reach out to my email: 
 madiscercy@gmail.com
+
+## Video Submission
+https://drive.google.com/file/d/1q7VjiB6bBOz0BxC0b9AamJsPhbd7GY40/view
